@@ -1,0 +1,24 @@
+{
+  "name": "sass_project_workflow",
+  "version": "1.0.0",
+  "description": "A simple workflow model using sass to launch frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "automation"
+  ],
+  "author": "EricksonVaz",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
